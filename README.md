@@ -7,3 +7,4 @@
 * [常用 webpack 配置统计结果](https://github.com/pigcan/blog/issues/5)
 * [webpack watch 篇（一）](https://github.com/pigcan/blog/issues/6)
 * [如何变更一个非相关文件但引发 webpack 重新构建](https://github.com/pigcan/blog/issues/7)
+* [在 es6 中 sinon 的正确打开方式](https://github.com/pigcan/blog/issues/8)
