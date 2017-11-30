@@ -10,3 +10,4 @@
 * [在 es6 中 sinon 的正确打开方式](https://github.com/pigcan/blog/issues/8)
 * [基于 webpack 的持久化缓存方案](https://github.com/pigcan/blog/issues/9)
 * [看 Sean Thomas Larkin 谈 webpack 插件机制](https://github.com/pigcan/blog/issues/10)
+* [看 Sean Larkin & Tobias Koppers 谈 webpack3 -> webpack4](https://github.com/pigcan/blog/issues/11)
