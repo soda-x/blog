@@ -12,3 +12,4 @@
 * [看 Sean Thomas Larkin 谈 webpack 插件机制](https://github.com/pigcan/blog/issues/10)
 * [看 Sean Larkin & Tobias Koppers 谈 webpack3 -> webpack4](https://github.com/pigcan/blog/issues/11)
 * [求贤纳士](https://github.com/pigcan/blog/issues/12)
+* [用了啥 - 分享软件和硬件](https://github.com/pigcan/blog/issues/13)
