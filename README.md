@@ -14,3 +14,4 @@
 * [求贤纳士](https://github.com/pigcan/blog/issues/12)
 * [用了啥 - 分享软件和硬件](https://github.com/pigcan/blog/issues/13)
 * [An emoji guide for your commit messages](https://github.com/pigcan/blog/issues/14)
+* [用工具思路来规范化 git commit message](#15)
