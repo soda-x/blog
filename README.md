@@ -1,6 +1,6 @@
 # blog
 
-* [Lerna 使用进阶](https://github.com/pigcan/blog/issues/16)
+* [Lerna Workflow](https://github.com/pigcan/blog/issues/16)
 * [用工具思路来规范化 git commit message](https://github.com/pigcan/blog/issues/15)
 * [An emoji guide for your commit messages](https://github.com/pigcan/blog/issues/14)
 * [用了啥 - 分享软件和硬件](https://github.com/pigcan/blog/issues/13)
