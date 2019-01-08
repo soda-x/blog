@@ -1,5 +1,6 @@
 # blog
 
+* [2019 年度计划](https://github.com/pigcan/blog/issues/17)
 * [Lerna Workflow](https://github.com/pigcan/blog/issues/16)
 * [用工具思路来规范化 git commit message](https://github.com/pigcan/blog/issues/15)
 * [An emoji guide for your commit messages](https://github.com/pigcan/blog/issues/14)
