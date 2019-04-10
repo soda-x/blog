@@ -1,5 +1,6 @@
 # blog
 
+* [支付宝小程序构建重构我的一些个人思考](https://github.com/pigcan/blog/issues/19)
 * [CodeSandbox Review](https://github.com/pigcan/blog/issues/18)
 * [2019 年度计划](https://github.com/pigcan/blog/issues/17)
 * [Lerna Workflow](https://github.com/pigcan/blog/issues/16)
