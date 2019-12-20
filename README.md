@@ -1,5 +1,6 @@
 # blog
 
+* [D2 分享 - 基于浏览器的实时构建探索之路](https://github.com/pigcan/blog/issues/22)
 * [codesandbox - sandpack 、systemjs @0.21.x @3.x 、JSPM 2.0 、@pika/web 带来的一些思考以及借鉴意义](https://github.com/pigcan/blog/issues/21)
 * [我关注的 YouTubers](https://github.com/pigcan/blog/issues/20)
 * [支付宝小程序构建重构我的一些个人思考](https://github.com/pigcan/blog/issues/19)
