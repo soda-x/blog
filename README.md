@@ -1,5 +1,6 @@
 # blog
 
+* [吃一堑长一智系列：你知道 HTML 的默认背景色是什么吗](https://github.com/pigcan/blog/issues/25)
 * [吃一堑长一智系列：babel 之 semver](https://github.com/pigcan/blog/issues/24)
 * [吃一堑长一智系列：less](https://github.com/pigcan/blog/issues/23)
 * [D2 分享 - 基于浏览器的实时构建探索之路](https://github.com/pigcan/blog/issues/22)
